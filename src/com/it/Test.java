@@ -10,5 +10,6 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 public class Test {
     public void tested(){
         System.out.println("实现的方法！！");
+        System.out.println("新的方法！！");
     }
 }
